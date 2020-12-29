@@ -1,7 +1,7 @@
 # Space Filling Curves based on Magnetic Particles
 
-Based on the paper "Magnetic Curves: Curvature-Controlled Aesthetic Curves
-Using Magnetic Fields" by Ling Xu and David Mould, I implemented their
+Based on the paper ["Magnetic Curves: Curvature-Controlled Aesthetic Curves
+Using Magnetic Fields" by Ling Xu and David Mould](https://dl.acm.org/doi/10.5555/2381286.2381288), I implemented their
 algorithm, more or less.
 
 There was a lot specifically *not* mentioned in their paper which was frustrating, but the end product looks close enough for my purposes.
